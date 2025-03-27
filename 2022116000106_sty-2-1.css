@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.offer1 {
+  font-size: 55px;
+  color: #333333;
+  font-family: "Onyx", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.title {
+  font-size: 62px;
+  color: #4c9372;
+  font-family: "Tw Cen MT Condensed", sans-serif;
+  font-weight: 600;
+  line-height: 0;
+  letter-spacing: -2px;
+}
+
+.offer2 {
+  font-family: "Rockwell", sans-serif;
+  font-size: 30px;
+  color: #000000;
+  font-style: italic;
+}
+.date {
+  font-size: 40px;
+  font-family: "Rockwell", sans-serif;
+  font-weight: "bold";
+  color: #000;
+}
+
+.offer3 {
+  font-size: 70px;
+  font-family: "BoomBox", sans-serif;
+  color: #000000;
+  margin: 0px 0;
+}
+
+.highlight {
+  color: #e1005a;
+  font-size: 55px;
+  font-family: "BoomBox", sans-serif;
+  font-weight: 900;
+  letter-spacing: 4px;
+}
+
+.offer4 {
+  font-size: 42px;
+  font-family: "BoomBox", sans-serif;
+  color: #000000;
+}
+.container {
+  font-size: 41px;
+  color: #e1005a;
+  font-weight: 900;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* 调整间距 */
+}
+
+.description {
+  font-size: 16px;
+  color: #3d424ec3;
+  margin-top: -1px;
+}
+.description1 {
+  margin-top: 6px;
+}
